@@ -73,5 +73,4 @@ Project ini disarankan dijalankan menggunakan:
 - Python versi 3.10 atau 3.11
 
 ## Author
-
-Nama: Fahira
+Fahira Zahra Fr
